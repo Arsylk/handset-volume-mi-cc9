@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.1
-versionCode=11
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=handset-volume-mi-cc9
+name=Handset Volume Mi CC9
+version=v1.0
+versionCode=1
+author=Arsylk
+description=Increases handset volume for Mi CC9
+updateJson=https://raw.githubusercontent.com/Arsylk/handset-volume-mi-cc9/master/update.json
